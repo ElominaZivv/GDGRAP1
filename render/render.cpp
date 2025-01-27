@@ -2,6 +2,8 @@
 
 int main(void)
 {
+    //Octogon Submission January 27, 2025
+
     GLFWwindow* window;
 
     /* Initialize the library */
